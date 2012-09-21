@@ -23,6 +23,7 @@ you have to install:
 - autoconf
 - autoconf-archive
 - automake
+- libtool
 
 on Debian/Ubuntu - you can use apt-get
 
